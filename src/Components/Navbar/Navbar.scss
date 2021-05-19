@@ -1,0 +1,9 @@
+$primary-blue:#037fd8;
+$primary-black:#000;
+$primary-seablue:#104986;
+
+.nav{
+    background-color: $primary-blue;
+    display: flex;
+    flex-wrap: wrap;
+}
