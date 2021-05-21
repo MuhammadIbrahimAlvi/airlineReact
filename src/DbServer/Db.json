@@ -1,0 +1,14 @@
+{
+    "blogs":[
+        {"title":"Introduction To Computer Science",
+            "author":"Badar Sami",
+            "description":"Caution dont Read the description you won't understand this easily",
+            "id":"1"
+        },
+        {"title":"Introduction To Science",
+            "author":"Mukesh",
+            "description":"dont Read the description you won't understand this easily..! Gao Mata",
+            "id":"2"
+        }
+    ]
+}
