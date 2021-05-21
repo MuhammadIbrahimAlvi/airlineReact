@@ -13,7 +13,7 @@ class Navbar extends React.Component {
                 <h4>AirTravels</h4>
                 </div>
                 <div className={classes.navinput}>
-                    <input type="text" placeholder="Search"  />
+                    <input type="text" placeholder="Search"/>
                     <SearchIcon className={classes.icon}/>
                 </div>
             </div>

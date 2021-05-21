@@ -1,13 +1,14 @@
 import './App.css';
 import Navbar from './ClassComponents/Navbar/Navbar';
 import Plane from './ClassComponents/Carousel/Slider';
-// import UseState from './HooksComponent/UseState';
+import BookFlight from './ClassComponents/FlightBooking/BookFlight';
+// import React,{useState,useEffect} from 'react';
 function App() {
   return (
     <>
       <Navbar />
       <Plane/>
-      {/* <UseState/> */}
+      <BookFlight/>
     </>
   );
 }

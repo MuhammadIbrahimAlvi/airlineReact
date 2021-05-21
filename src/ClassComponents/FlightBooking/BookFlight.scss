@@ -1,0 +1,16 @@
+.container{
+    width: 30%;
+    height: 350px;
+    position: relative;
+    top: 500px;
+    box-shadow: 3px 3px 5px 5px grey;
+    margin: 0 auto;
+    padding: 10px 10px;
+    background-color: lightsteelblue;
+    text-align: center;
+    .heading{
+        margin-left: 10px;
+        font-family: 'Lobster', cursive;
+        font: 50px;
+    }
+}
